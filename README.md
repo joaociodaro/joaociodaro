@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Ciodaro.
+## Olá! Eu sou o João Ciodaro. Estou cursando Ciências da Computação 3° Período - UNIP.
 
 Conhecimentos:
 <div style="display: inline_block"><br>
