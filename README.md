@@ -1,4 +1,4 @@
-## Olá! Eu sou o João Ciodaro. Estou cursando Ciências da Computação 3° Período - UNIP.
+## Olá! Eu sou o João Ciodaro. Estou cursando Ciências da Computação 4° Período - UNIP.
 
 Link do meu Linkedin: https://www.linkedin.com/in/joão-ciodaro-31059b21b/
 
